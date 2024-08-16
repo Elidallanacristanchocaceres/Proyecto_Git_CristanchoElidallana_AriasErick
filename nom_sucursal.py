@@ -5,3 +5,4 @@ registro = {
     "Nombre de la Sucursal"
     "Direccion completa"
 }
+registro
