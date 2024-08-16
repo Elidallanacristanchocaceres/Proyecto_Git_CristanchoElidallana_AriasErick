@@ -27,7 +27,7 @@ def main():
         elif opcion == '5':
             filtrar_sucursales()
         elif opcion == '6':
-            print("Saliendo del programa...")
+            print("Saliste del programa...")
             break
         else:
             print("Ingresa una opcion correcta. ")
