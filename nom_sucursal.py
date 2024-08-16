@@ -100,7 +100,7 @@ def main():
             print("Saliendo del programa...")
             break
         else:
-            print("La opción que ingresó no es válida. Por favor, elija una opción entre 1 y 6.")
+            print("Esta opcion es incorrecta.")
 
 if __name__ == "__main__":
     main()
